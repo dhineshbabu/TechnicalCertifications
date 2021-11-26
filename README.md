@@ -10,7 +10,7 @@
 - [Cloud](#Cloud) 
 
 
-#### <u> Cloud </u> [🔝](#Technical-Certifications)
+### <u> Cloud </u> [🔝](#Technical-Certifications)
 | Certificate Name | Certificate issuer | Icon | Badge |Certificates |
 |---|-------------------|------|--------|-------|
 |AWS Certified Solutions Architect Associate |Amazon Web Services  |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_AWSSAA.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AWSSAA.png" width="200" height="100"> |
@@ -20,5 +20,6 @@
 | Azure Data Fundamentals |Microsoft Azure  |![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_AzureDataFundamentals.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_DP900.png" width="200" height="100"> |
 | Azure AI Fundamentals |Microsoft Azure  |![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_AzureAIFundamentals.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AI900.png" width="200" height="100"> |
 |Oracle Cloud Infrastructure Foundation 2020 Associate |Oracle Cloud  |![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_OCIFA.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_OCIFA.png" width="200" height="100"> |
+|MultiCloud Networking Associate |Aviatrix  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_aviatrix.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_Aviatrix_MCNA.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_Aviatrix.png" width="200" height="100"> |
 
 
