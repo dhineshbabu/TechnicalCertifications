@@ -4,4 +4,4 @@
 
 | Certificate issuer | Icon |Certificates |
 |-------------------|------|---------------|
-|Amazon Web Services |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| ![](/![alt](https://link))
+|Amazon Web Services |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| ![alt](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AWSSAA.png) |
