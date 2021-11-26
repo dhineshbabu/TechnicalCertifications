@@ -1,8 +1,15 @@
 ## Technical Certifications
 ---------------------------
-<b>Collection of all my technical certifications </b> :cowboy_hat_face:
+<u> <b>Collection of all my technical certifications </b></u> :cowboy_hat_face:
 
-| Certificate Name | Certificate issuer | Icon |Certificates |
-|---|-------------------|------|---------------|
-|AWS Certified Solutions Architect Associate |Amazon Web Services |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| ![alt](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AWSSAA.png){:height="100px" width="100px"} |
-|AWS Certified Solutions Architect Associate |Amazon Web Services |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AWSSAA.png" width="200" height="100"> |
+:triangular_flag_on_post: Click on the certification image to view maximized image
+
+
+
+
+| Certificate Name | Certificate issuer | Icon | Badge |Certificates |
+|---|-------------------|------|--------|-------|
+|AWS Certified Solutions Architect Associate |Amazon Web Services  |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_AWSSAA.png" width="100" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AWSSAA.png" width="200" height="100"> |
+
+
+
