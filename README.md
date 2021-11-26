@@ -7,13 +7,13 @@
 
 <b> Categories </b>: 
 
-- [Cloud](#Cloud) 
-- [Performance Tools](#Performance-Tools) 
-- [Chaos Tools](#Chaos-Tools) 
-- [DevOps And Observability Tools](#DevOps-And-Observability-Tools) 
+- [Cloud](#cloud) 
+- [Performance Tools](#performance-tools) 
+- [Chaos Tools](#chaos-tools) 
+- [DevOps And Observability Tools](#devops-and-observability-tools) 
 
 
-### <u> Cloud </u> [🔝](#Technical-Certifications)
+### <u>Cloud</u> [🔝](#Technical-Certifications)
 | Certificate Name | Certificate issuer | Icon | Badge |Certificates |
 |---|-------------------|------|--------|-------|
 |AWS Certified Solutions Architect Associate |Amazon Web Services  |![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_AWSSAA.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_AWSSAA.png" width="200" height="100"> |
@@ -45,6 +45,6 @@
 |---|-------------------|------|--------|-------|
 |Introduction to GitOps |The Linux Foundation  |![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_LFGitOps.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_GitOps.png" width="200" height="100"> |
 |Sumo Logic Fundamentals |Sumo Logic  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOFunda.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOFunda.png" width="200" height="100"> |
-|Sumo Logic Administation |Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_gremlin.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOAdmin.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOAdmin.png" width="200" height="100"> |
-|Sumo Logic Search Mastery |Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_gremlin.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOSearchMastery.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOSearchMastery.png" width="200" height="100"> |
-|Sumo Logic Metrics Mastery |Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_gremlin.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Bagde_SUMOMetricsMastery.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOMetricsMastery.png" width="200" height="100"> |
+|Sumo Logic Administation |Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOAdmin.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOAdmin.png" width="200" height="100"> |
+|Sumo Logic Search Mastery |Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOSearchMastery.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOSearchMastery.png" width="200" height="100"> |
+|Sumo Logic Metrics Mastery |Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Bagde_SUMOMetricsMastery.png" width="200" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOMetricsMastery.png" width="200" height="100"> |
