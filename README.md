@@ -29,8 +29,8 @@
 
 | Certificate Name | Certificate issuer | Icon | Badge |Certificates |
 |---|-------------------|------|--------|-------|
-|Load Runner Pro 2020 |Micro Focus  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_microfocus.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_LRPro2020.png" width="100" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_LRPro2020.png" width="200" height="100"> |
-|Certified Professional for NeoLoad |NeoTys  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_neotys.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_Neoloadbadge.png" width="100" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_NeoloadCertification.png" width="200" height="100"> |
+|Load Runner Pro 2020 |Micro Focus  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_microfocus.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_LRPro2020.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_LRPro2020.png" width="200" height="100"> |
+|Certified Professional for NeoLoad |NeoTys  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_neotys.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_Neoloadbadge.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_NeoloadCertification.png" width="200" height="100"> |
 
 
 ### <u>Chaos Tools</u> [🔝](#Technical-Certifications)
