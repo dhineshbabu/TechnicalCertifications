@@ -37,7 +37,7 @@
 
 | Certificate Name | Certificate issuer | Icon | Badge |Certificates |
 |---|-------------------|------|--------|-------|
-|Certified Chaos Engineering Practitioner |Gremlin  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_gremlin.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_GremlinCCEP.png" width="100" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_Gremlin.png" width="200" height="100"> |
+|Certified Chaos Engineering Practitioner |Gremlin  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_gremlin.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_GremlinCCEP.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_Gremlin.png" width="200" height="100"> |
 
 ### <u>DevOps And Observability Tools</u> [🔝](#Technical-Certifications)
 
