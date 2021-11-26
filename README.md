@@ -10,7 +10,9 @@
 - [Cloud](#cloud-) 
 - [Performance Tools](#performance-tools-) 
 - [Chaos Tools](#chaos-tools-) 
-- [DevOps And Observability Tools](#devops-and-observability-tools-) 
+- [DevOps And Observability Tools](#devops-and-observability-tools-)
+- [Security](#security-) 
+
 
 
 ### <u>Cloud</u> [🔝](#Technical-Certifications)
@@ -48,3 +50,9 @@
 |Sumo Logic Administation | :white_check_mark: <b> Active</b>|Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOAdmin.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOAdmin.png" width="200" height="100"> |
 |Sumo Logic Search Mastery | :white_check_mark: <b> Active</b>|Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOSearchMastery.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOSearchMastery.png" width="200" height="100"> |
 |Sumo Logic Metrics Mastery | :white_check_mark: <b> Active</b> | Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Bagde_SUMOMetricsMastery.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOMetricsMastery.png" width="200" height="100"> |
+
+### <u>Security</u> [🔝](#Technical-Certifications)
+
+| Certificate Name | Status | Certificate issuer | Icon | Badge |Certificates |
+|---|--------|-----------|------|--------|-------|
+|Certified Ethical Hacker V9 | :x: Expired |EC-Council  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_eccouncil.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_CEHV9.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_CEHV9.png" width="200" height="100"> |
