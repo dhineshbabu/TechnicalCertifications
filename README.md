@@ -27,24 +27,24 @@
 
 ### <u>Performance Tools</u> [🔝](#Technical-Certifications)
 
-| Certificate Name | Certificate issuer | Icon | Badge |Certificates |
-|---|-------------------|------|--------|-------|
+| Certificate Name | Status | Certificate issuer | Icon | Badge |Certificates |
+|---|--------|-----------|------|--------|-------|
 |Load Runner Pro 2020 | :white_check_mark: <b> Active</b>|Micro Focus  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_microfocus.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_LRPro2020.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_LRPro2020.png" width="200" height="100"> |
 |Certified Professional for NeoLoad | :white_check_mark: <b> Active</b>|NeoTys  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_neotys.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_Neoloadbadge.png" width="150" height="50">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_NeoloadCertification.png" width="200" height="100"> |
 
 
 ### <u>Chaos Tools</u> [🔝](#Technical-Certifications)
 
-| Certificate Name | Certificate issuer | Icon | Badge |Certificates |
-|---|-------------------|------|--------|-------|
+| Certificate Name | Status | Certificate issuer | Icon | Badge |Certificates |
+|---|--------|-----------|------|--------|-------|
 |Certified Chaos Engineering Practitioner | :white_check_mark: <b> Active</b>|Gremlin  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_gremlin.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_GremlinCCEP.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_Gremlin.png" width="200" height="100"> |
 
 ### <u>DevOps And Observability Tools</u> [🔝](#Technical-Certifications)
 
-| Certificate Name | Certificate issuer | Icon | Badge |Certificates |
-|---|-------------------|------|--------|-------|
+| Certificate Name | Status | Certificate issuer | Icon | Badge |Certificates |
+|---|--------|-----------|------|--------|-------|
 |Introduction to GitOps | :white_check_mark: <b> Active</b>|The Linux Foundation  |![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_LFGitOps.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_GitOps.png" width="200" height="100"> |
 |Sumo Logic Fundamentals | :white_check_mark: <b> Active</b>|Sumo Logic  |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOFunda.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOFunda.png" width="200" height="100"> |
 |Sumo Logic Administation | :white_check_mark: <b> Active</b>|Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOAdmin.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOAdmin.png" width="200" height="100"> |
 |Sumo Logic Search Mastery | :white_check_mark: <b> Active</b>|Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Badge_SUMOSearchMastery.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOSearchMastery.png" width="200" height="100"> |
-|Sumo Logic Metrics Mastery | :white_check_mark: <b> Active</b>|Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Bagde_SUMOMetricsMastery.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOMetricsMastery.png" width="200" height="100"> |
+|Sumo Logic Metrics Mastery | :white_check_mark: <b> Active</b> | Sumo Logic   |![](https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/icon_sumologic.png)| <img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Bagde_SUMOMetricsMastery.png" width="150" height="100">|<img src="https://github.com/dhineshbabu/TechnicalCertifications/blob/main/images/Certification_SUMOMetricsMastery.png" width="200" height="100"> |
