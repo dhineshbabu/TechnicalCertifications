@@ -7,10 +7,10 @@
 
 <b> Categories </b>: 
 
-- [Cloud](#cloud) 
-- [Performance Tools](#performance-tools) 
-- [Chaos Tools](#chaos-tools) 
-- [DevOps And Observability Tools](#devops-and-observability-tools) 
+- [Cloud](#cloud-) 
+- [Performance Tools](#performance-tools-) 
+- [Chaos Tools](#chaos-tools-) 
+- [DevOps And Observability Tools](#devops-and-observability-tools-) 
 
 
 ### <u>Cloud</u> [🔝](#Technical-Certifications)
