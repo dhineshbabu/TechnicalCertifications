@@ -2,7 +2,7 @@
 ---------------------------
 <u> <b>Collection of all my technical certifications </b></u> :cowboy_hat_face:
 
-:triangular_flag_on_post: Click on the certification image to view maximized image
+:triangular_flag_on_post: Click on the certification image to view it maximized
 
 
 <b> Categories </b>: 
